@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 9" width="35" height="9">
+	<title>HAMBURGER MENU</title>
+	<defs>
+		<image width="35" height="9" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAJCAYAAAC47pUJAAAAAXNSR0IArs4c6QAAAC9JREFUOE9j1NbWLmcYJIBRU1OzY5C4hYFxsDgE5I5Rx+CKjdGQwRkyo1kbR9AAAPTTBACwM9E9AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="HAMBURGER MENU" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>

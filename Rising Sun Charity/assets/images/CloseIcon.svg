@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24" width="25" height="24">
+	<title>X</title>
+	<defs>
+		<image width="25" height="26" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAaCAYAAABCfffNAAAAAXNSR0IArs4c6QAAAVFJREFUSEu9lk1OxDAMhe3hOqyeL4CQ+NmBxHAQdtwBseAiIGDJj0Zskb3gNExZBGWUVqVtmqStyDp6n55fbIfpHw6LyK1zbmVmV0vzROTOOVexFwZwz8wrVT1fCgTgiYgqM1vvIP6IyHtwdDAXBOCDiLZmduS1Gkhw9MLMe6p6OBUEYENE32Z2Wmv8gcx11HUQhUwFxQC9crVLVJLRGGAUEhw9hMdwFssIwHMIeR2708uke3HMUcrBaCY5oFxAslyxjEoARZDQR29+QDDzp6oe5/ZSMpO2UHCwT0RfZpY9GbIh7RKVPO/scg1lUAJKOhkLORc0CgmN5sf1RSxkEUk2bBRS8kxTjgYhJYCcfdSDTAGkQN2ltWHmraqe5DZa9x6A17DKm8XXQOY4SM26+iPxyMyVql5OdTDgqPmc7L5ERPSjqtdLAWodADfsz9LCQ3q/fbIAcLaidOkAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="X" href="#img1" transform="matrix(1,0,0,1,0,-1)"/>
+</svg>

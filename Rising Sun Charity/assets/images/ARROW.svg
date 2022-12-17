@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 12" width="60" height="12">
+	<title>ARROW</title>
+	<defs>
+		<image width="60" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAMCAYAAAA+ht7fAAAAAXNSR0IArs4c6QAAASlJREFUSEvd1i9PAnEYwPHvc8c8CU4GXLYQLM5ssTkHGgQZ4aKbcwbHiyDZ3GxK18BB4tBpk81ssroRDJyAwQ0dd487N4rjFfye+qTPnr+CSaEq7l3nLI54+NivvC6iiUnelcd2zvnRdyACrYel6tV/n1HgBJfttbcs1RtgTaEVfVvHk3J5MocbB05gmU4nYzvxtUBV4U1FvFGx8pzkjATPq5nv+ScoF0AK5TTcO2xKPvCfgA2TZvmfxQYswM6QXpV8128iFEwFC+SUP980TGddY1u6EATOmOm5oHVgIljesFTuGQnO3bfWZSa3CJtAP7Ztb7R7MDByablB60iRS2AZpRF+RQ1qtcjIs5Sco5QTj4GBiHjDYqVv/OPhdv3t2VL0Mt6pfS5axL8Cf14mEi85kQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="ARROW" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>
